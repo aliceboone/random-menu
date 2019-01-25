@@ -16,7 +16,7 @@ We will create a program that runs from the Terminal that will create a random r
 
 We will create this random menu generator in a file named `random-menu.rb` that can be run from the Terminal using the command `$ ruby random-menu.rb`
 
-This generator should pull one item from different arrays you make to create a "menu item". The details about the different arrays are listed in the requirements section below.
+This generator should pull one item each from different arrays you make to create a combined "menu item". The details about the different arrays are listed in the requirements section below.
 
 When the program runs, it should create and show a list of ten numbered menu items.
 ```ruby
