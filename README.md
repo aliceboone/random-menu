@@ -8,7 +8,10 @@
 ## Learning Goals
 
 - Reinforce creating, using, and manipulating strings
-- Reinforce creating and using arrays
+- Reinforce setting and accessing variables
+- Reinforce creating arrays
+- Reinforce accessing element(s) from an array
+- Reinforce modifying an array
 
 ## Objective
 
