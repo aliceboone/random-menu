@@ -11,7 +11,6 @@
 - Reinforce setting and accessing variables
 - Reinforce creating arrays
 - Reinforce accessing element(s) from an array
-- Reinforce modifying an array
 
 ## Objective
 

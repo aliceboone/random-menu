@@ -1,7 +1,8 @@
-# Random Menu Generator
-Congratulations! You're submitting your assignment.
+# Assignment Submission: Random Menu
 
-## Comprehension Questions
+Congratulations! You're submitting your assignment. Please reflect on the assignment with these questions.
+
+## Reflection
 
 |  Question 	|  Answer 	|
 |---	|---	|
