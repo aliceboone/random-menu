@@ -51,7 +51,7 @@ In Terminal, what commands do I run to:
 1. list the files in this directory?
 1. create a new file in this directory?
 
-Once you are in a good project directory, you can open the directory in the text editor VS Code with the command `code .`. Opening this directory in VS Code will give you the ability to easily access all files and folders in this directory in one VS Code window.
+Once you are in a good project directory, open this directory in your IDE.
 
 ## Implementation Requirements
 
